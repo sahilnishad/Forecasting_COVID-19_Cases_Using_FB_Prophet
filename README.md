@@ -4,7 +4,7 @@
  
 ###### note :  
 1. Dataset is till 28 may,2020. [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/ "kaggle.com") to the dataset
-2. Here, Prophet is used, A time sereies froecasting library by FB Prophet. [Click here](https://facebook.github.io/prophet/docs/quick_start.html "FB Prophet") to view the documentation.
+2. I haveused "Prophet" a time series forecasting library by FB Prophet. [Click here](https://facebook.github.io/prophet/docs/quick_start.html "FB Prophet") to view the documentation.
 
 
 

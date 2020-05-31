@@ -9,7 +9,7 @@
 
 
 #### I Have followed 6 steps to forecast each dataframe :
--  renaming the columns
+-  renaming the columns (renaming to 'ds' and 'y')
 - building the model
 - fitting the model
 - creating dataframe for upcoming days

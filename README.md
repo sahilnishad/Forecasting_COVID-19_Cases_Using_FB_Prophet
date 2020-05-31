@@ -4,7 +4,7 @@
  
 ###### note :  
 1. Dataset is till 28 may,2020. [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/ "kaggle.com") to the dataset
-2. I have used "Prophet" a time series forecasting library by FB Prophet. [Click here](https://facebook.github.io/prophet/docs/quick_start.html "FB Prophet") to view the documentation.
+2. I have used "Prophet", a time series forecasting library by FB Prophet. [Click here](https://facebook.github.io/prophet/docs/quick_start.html "FB Prophet") to view the documentation.
 
 
 
@@ -17,8 +17,10 @@
 - plotting 
 
 # In Conclusion 
-#### By The End of June, 2020 , There Will Be :
+#### By The End of June, 2020 , There Will Be ^:
     - 8.7 millions of confirmed cases worldwide
     - 4.2 millions of active cases worldwide
     - 308k of confirmed cases in India
     - 158k of active cases in India
+    
+  ^(actual results may vary)

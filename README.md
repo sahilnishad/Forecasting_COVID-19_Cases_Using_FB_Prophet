@@ -1,1 +1,1 @@
-# Forecasting_COVID-19_Cases_Using_FB_Prophet
+# Forecasting COVID-19 Cases Using FB Prophet

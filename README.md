@@ -5,7 +5,9 @@
 ###### note :  
 1. Dataset is till 28 may,2020. [Link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/ "kaggle.com") to the dataset
 2. I have used "Prophet", a time series forecasting library by FB Prophet. [Click here](https://facebook.github.io/prophet/docs/quick_start.html "FB Prophet") to view the documentation.
-
+3. This analysis is for academic purpose and does not intend to spread misinformation. 
+4. Predicting data is a well established study in data science and there is always a scope of correction in predicted outcomes.
+5. I am not a health professional or epidemiologist, and the analysis done in this notebook should not be interpreted as professional advice. 
 
 
 #### I Have followed 6 steps to forecast each dataframe :

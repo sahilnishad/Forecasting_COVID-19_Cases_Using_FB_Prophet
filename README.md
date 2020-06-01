@@ -24,3 +24,5 @@
     - 158k of active cases in India
     
   ^(actual results may vary)
+  
+###### Although the outcomes of forecasting may seems disheartening but this is just a prediction, which is based on past data and the actual results are bound to change. If we all follow social distancing and practice basic hygiene, I think we can come with something  far less than the predicted values. 

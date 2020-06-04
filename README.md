@@ -339,7 +339,7 @@
 
 ---
 
-# In Conclusion 
+# Conclusion 
 #### By The End of June, 2020 , There Will Be ^:
     - 8.7 millions of confirmed cases worldwide
     - 4.2 millions of active cases worldwide

@@ -1,6 +1,6 @@
 # Forecasting COVID-19 Cases Using FB Prophet
 
-#### This is a time series forecasting using FB Prophet aiming to forecast upcoming confirmed and active cases of COVID-19 in worldwide and India.
+#### This is a time series forecasting using FB Prophet aiming to forecast upcoming confirmed and active cases of COVID-19 in worldwide and India by the end of June.
 
 ![](/images/cover.png)
  #
